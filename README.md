@@ -10,7 +10,7 @@
     <p>Ez az első GitHub Pages oldalam 🎉</p>
      <p>Ez az első GitHub Pages oldalam 🎉</p>
 
-<img src="" alt="Kép leírása" width="300">
+<img  src="Cat_November_2010-1a.jpg" alt="Kép leírása" width="300">
 
   
 </body>
