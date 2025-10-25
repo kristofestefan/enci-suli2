@@ -10,6 +10,9 @@
     <p>Ez az első GitHub Pages oldalam 🎉</p>
      <p>Ez az első GitHub Pages oldalam 🎉</p>
 
+<img src="" alt="Kép leírása" width="300">
+
+  
 </body>
 </body>
 </html>
