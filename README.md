@@ -10,6 +10,6 @@
     <p>Ez az első GitHub Pages oldalam 🎉</p>
      <p>Ez az első GitHub Pages oldalam 🎉</p>
 
-
+</body>
 </body>
 </html>
