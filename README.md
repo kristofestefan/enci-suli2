@@ -6,9 +6,9 @@
 </head>
 <body style="font-family: sans-serif; text-align: center;">
     <h1>Üdv az oldalamon!</h1>
-    <p1>Ez az első GitHub Pages oldalam 🎉</p2>
+    <p1>Ez az első GitHub Pages oldalam 🎉</p1>
     <p>Ez az első GitHub Pages oldalam 🎉</p>
-   <img> </img>
+     <p>Ez az első GitHub Pages oldalam 🎉</p>
 
 
 </body>
